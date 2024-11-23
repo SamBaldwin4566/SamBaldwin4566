@@ -1,15 +1,17 @@
 # Welcome 👋
 ### About me
-I am an aspiring Web Developer hoping to make an exciting career change the world of tech. My background is mainly in Science and Education, but have always had a knack for problem solving and since taking up coding I've realised this is the direction I want to pursue.<br>
-In 2023 I completed a Web Development Bootcamp with Hyperion Development where I have learned the fundamentals of JavaScript, HTML, CSS and React. While the tasks and projects were challenging I found it so rewarding when something clicks and comes together. I have decided to add my capstone projects from my bootcamp to show my coding journey from the very beginning.<br>
-Since I have been working on my own projects while also volunteer as a Frontend Developer with Farmspeak Technology.
+I am an aspiring Software Developer, currently kickstarting my career through an apprenticeship. With a background in Science, I’ve always had a knack for problem-solving, and discovering coding has solidified my passion for pursuing a career in technology.</br>
+
+In 2023, I began my coding journey by completing a Web Development Bootcamp with Hyperion Development, where I gained a strong foundation in JavaScript, HTML, and CSS. While the projects were challenging, the satisfaction of seeing them come together was incredibly rewarding. To showcase my progress, I’ve included my capstone projects from the bootcamp, reflecting my development journey from the start.</br>
+
+Since then, I’ve explored various areas of the tech industry and worked on personal projects to deepen my skills. I briefly volunteered as a Frontend Developer with Farmspeak Technology to refine my expertise before securing my first role as an Apprentice Software Developer with FenTrack Ltd.</br>
+
 <br><br>
 
 ### How To Reach Me
 sbaldwin.coding@gmail.com<br>
 www.linkedin.com/in/sam-baldwin-235671254
 <br><br><br>
-To put a face to the name here is a picture of me with my dog Raya.<br><br>
 
 <img src="IMG_6073.jpeg" width="30%">
 
